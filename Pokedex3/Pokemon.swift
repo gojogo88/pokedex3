@@ -253,9 +253,9 @@ class Pokemon {
                 print(self._height)
                 print(self._attack)
                 print(self._defense)
-                print(self._nextEvolutionName)
-                print(self._nextEvolutionLvl)
-                print(self._nextEvolutionId)
+                print(self.nextEvolutionName)
+                print(self.nextEvolutionLvl)
+                print(self.nextEvolutionId)
                 
             }
             
